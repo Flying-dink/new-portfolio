@@ -33,7 +33,7 @@ Questions
 
 
 ## Installation
-The page is live at https://mavn2.github.io/react_portfolio/#/. My portfolio can be also viewed on your local server by cloning this repository, running "npm install" within the enclosing folder to install required dependencies, then launching it with "npm start." If there are no port conflicts, the page can then be visited at http://localhost:3000/#/.
+ My portfolio can be also viewed on your local server by cloning this repository, running "npm install" within the enclosing folder to install required dependencies, then launching it with "npm start." If there are no port conflicts, the page can then be visited at http://localhost:3000/#/.
 
 ## Usage
 The buttons embedded in the column headers will sort the displayed users. The search bar is case-sensitive but dynamic, narrowing the field of results as a user enters text.
