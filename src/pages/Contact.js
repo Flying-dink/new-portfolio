@@ -16,4 +16,5 @@ export default function Contact() {
       </Row>
       <Footer />
     </Container>
-  )};
+  );
+}
