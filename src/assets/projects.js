@@ -1,7 +1,7 @@
 // List of projects for portfolio, stored here to reduce imports/clutter on portfolio page
 // Import images for project cards, numbered for easier replacement
 import img1 from './  ';
-import img2 from './  ';
+import img2 from './ 2021-09-22 (3).png ';
 import img3 from './  ';
 import img4 from './  ';
 import img5 from './  ';
@@ -10,25 +10,25 @@ import img6 from './  ';
 // Array of project objects, ready to be iterated over using .map()
 const projects = [
   {
-    name: ' ',
+    name: 'Read My Lips ',
     src: img1,
-    alt: ' ',
-    git: '  ',
+    alt: ' Red lips picture',
+    git: 'https://flying-dink.github.io/Read-My-Lips/  ',
     live: '  ',
   },
   { 
-    name: '  ',
+    name: 'My Adventure  ',
     src: img2,
-    alt: '  ',
-    git: '  ',
-    live: '',
+    alt: 'MyAdventure App picture  ',
+    git: 'https://github.com/NukaGrizz/MyAdventure',
+    live: 'https://myadventureteam.herokuapp.com/',
   },
   {
-    name: '',
+    name: 'Note Taker App',
     src: img3,
-    alt: '',
+    alt: 'Note Taker app picture',
     git: '',
-    live: '',
+    live: 'https://note-taker-app-2021.herokuapp.com/',
   },
   {
     name: '',
@@ -51,6 +51,6 @@ const projects = [
     git: '',
     live: '',
   },
-];
+ 2021-09-22 (3).png];
 
 export default projects;
