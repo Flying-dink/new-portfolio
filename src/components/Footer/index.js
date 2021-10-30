@@ -3,7 +3,7 @@ import React from 'react';
 import { Row, Col } from 'react-bootstrap';
 
 // Import Resume
-import resume from '../../assets/Resume.pdf';
+import resume from '../../assets/2021-10-30(5).jpg';
 
 //  Exports a row containing contact info
 // Since content should be consistent, defined here rather then entered as props
