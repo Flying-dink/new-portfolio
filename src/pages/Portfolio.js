@@ -1,5 +1,6 @@
 import React from 'react';
-import { Container, CardColumns } from 'react-bootstrap';
+import  Container from 'react-bootstrap';
+import CardColumns from 'react-bootstrap';
 import Project from '../components/Project';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
@@ -27,3 +28,4 @@ export default function Portfolio() {
     </Container>
   );
 }
+
