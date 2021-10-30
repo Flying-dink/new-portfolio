@@ -6,7 +6,7 @@ import Footer from '../components/Footer';
 import Header from '../components/Header';
 
 // Import image for about me
-import headShot from '../assets/hShot.jpg';
+import headShot from '../assets/Scotland-headshot.jpg';
 
 // Text for about me
 const aboutText = [
