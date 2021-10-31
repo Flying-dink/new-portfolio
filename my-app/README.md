@@ -34,10 +34,12 @@ GitHub license
 None
 
 ## Tests
-none
+jest dom
+
+react library
 
 ## Collaborators
 none
 
 ## Questions?
-Flying-Dink skyedoll@aol.com
+skydoll96@gmail.com
