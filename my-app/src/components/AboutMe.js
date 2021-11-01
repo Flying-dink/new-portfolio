@@ -7,13 +7,13 @@ const AboutMe = () => {
                 <div className="aboutBorder" >
                     <h1 className="aboutTitle">Technologies</h1>
                     <div className="aboutTextDiv">
-                        <h2 className="aboutText">ReactJS</h2>
-                        <h2 className="aboutText">NodeJS</h2>
-                        <h2 className="aboutText">ExpressJS</h2>
+                        <h2 className="aboutText">React JS</h2>
+                        <h2 className="aboutText">Node JS</h2>
+                        <h2 className="aboutText">Express JS</h2>
                         <h2 className="aboutText">Jest</h2>
                         <h2 className="aboutText">MySQL</h2>
                         <h2 className="aboutText">MongoDB</h2>
-                        <h2 className="aboutText">IndexedDB</h2>
+                        <h2 className="aboutText">Indexed DB</h2>
                     </div>
                 </div>
                 <div className="aboutBorder">
@@ -32,7 +32,7 @@ const AboutMe = () => {
                         <h2 className="aboutText">JQuery</h2>
                         <h2 className="aboutText">VS Code</h2>
                         <h2 className="aboutText">Bootstrap</h2>
-                        <h2 className="aboutText">Materialize</h2>
+                        <h2 className="aboutText">Graph QL</h2>
                     </div>
                 </div>
             </div>
