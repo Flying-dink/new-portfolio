@@ -1,6 +1,6 @@
 
 
-# React-Collection-Porfolio
+# React-Collection-Portfolio
 
 
 
