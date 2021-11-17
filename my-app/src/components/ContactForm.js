@@ -10,8 +10,8 @@ const Contact = () => {
                 <h3 class="contactText">skydoll96@gmail.com</h3>
                 <h2 class="contactText"></h2>
                 <h3 class="contactText"></h3>
-                <a href= "www.linkedin.com/in/catherine-clifford-1b0967211"></a>
-                <a href= "github/Flying-dink.com"></a>
+                <a href="https://www.linkedin.com/in/catherine-clifford-1b0967211">linkedin</a>
+                <a href="https://github/Flying-dink.com">Github</a>
                 
             </div>
             <div className="formComponent">
