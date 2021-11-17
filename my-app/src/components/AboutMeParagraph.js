@@ -4,7 +4,7 @@ import "../styles/aboutmeparagraph.css"
 import AboutAnimation from './AboutAnimation'
 const AboutMeParagraph = () => {
 
-    const text= "My name is Catherine Clifford . Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestias aut, repellat ipsum facere voluptate dicta obcaecati deserunt nobis suscipit eaque?"
+    const text= "My name is Catherine Clifford an I am looking for a position as an entry level software developer"
         
     
 
