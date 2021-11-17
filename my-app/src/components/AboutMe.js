@@ -13,7 +13,7 @@ const AboutMe = () => {
                         <h2 className="aboutText">Jest</h2>
                         <h2 className="aboutText">MySQL</h2>
                         <h2 className="aboutText">MongoDB</h2>
-                        <h2 className="aboutText">Indexed DB</h2>
+                        <h2 className="aboutText">IndexedDB</h2>
                     </div>
                 </div>
                 <div className="aboutBorder">
