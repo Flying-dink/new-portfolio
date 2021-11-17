@@ -8,8 +8,11 @@ const Contact = () => {
                 <h1 class="contactText">Contact Me</h1>
                 <h2 class="contactText">Email:</h2>
                 <h3 class="contactText">skydoll96@gmail.com</h3>
-                <h2 class="contactText">Phone Number:</h2>
-                <h3 class="contactText">(000)000-0000</h3>
+                <h2 class="contactText"></h2>
+                <h3 class="contactText"></h3>
+                <a href= "www.linkedin.com/in/catherine-clifford-1b0967211"></a>
+                <a href= "github/Flying-dink.com"></a>
+                
             </div>
             <div className="formComponent">
                 <form class="submissionForm">
