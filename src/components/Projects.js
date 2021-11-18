@@ -4,7 +4,7 @@ import noteTakerIMG from "../images/notetaker.png"
 import ReadmeIMG from "../images/readme.png"
 import teamprofileIMG from "../images/teamprofile.png"
 import employeetrackerIMG from "../images/employeetracker.png"
-
+import boxitIMG from "../images/boxit.png"
 import "../styles/project.css"
 const Projects = () => {
     return (
@@ -58,6 +58,15 @@ const Projects = () => {
                     <img src={employeetrackerIMG} className="projectImage" alt="SQL-Employee-Tracker" />
                 </a>
                 <h3 className="projectText">A command-line application to manage a company's employee database using Node.js, Inquirer and MySQL.</h3>
+            </div>
+
+            <div className="projectDiv">
+                <h1 className="projectTitle">Box it</h1>
+                <h2 className="projectTitle"><a href="https://github.com/Flying-dink/Team-Profile-Generator" className="linkStyles" target="_blank">Github</a></h2>
+                <a href="https://drive.google.com/file/d/1BuIsQhPMTOYiApiiJi7bnnG5Up6NWBN3/view " target="_blank">
+                    <img src={boxitIMG} className="projectImage" alt="Box It logo" />
+                </a>
+                <h3 className="projectText">A mobile responsive app that organizes belongings and boxes for a move.</h3>
             </div>
         
                   
