@@ -11,7 +11,7 @@
 The react collection is an updated version of my portfolio using react and bootstrap  technology.
 
 ## Links
-https://flying-dink.github.io/React-Collection-Portfolio/
+https://flying-dink.github.io/new-portfolio/
 
 ## Installation
 npx create-react-app
