@@ -62,8 +62,9 @@ const Projects = () => {
 
             <div className="projectDiv">
                 <h1 className="projectTitle">Box it</h1>
-                <h2 className="projectTitle"><a href="https://github.com/Flying-dink/Team-Profile-Generator" className="linkStyles" target="_blank">Github</a></h2>
-                <a href="https://drive.google.com/file/d/1BuIsQhPMTOYiApiiJi7bnnG5Up6NWBN3/view " target="_blank">
+                <h2 className="projectTitle"><a href="https://github.com/AbhiBiju/BoxIt-Front-End" className="linkStyles" target="_blank">Github</a></h2>
+                <h2 className="projectTitle"><a href="https://github.com/AbhiBiju/BoxIt-back-End" className="linkStyles" target="_blank">Github</a></h2>
+                <a href="https://box-it-app.netlify.app/ " target="_blank">
                     <img src={boxitIMG} className="projectImage" alt="Box It logo" />
                 </a>
                 <h3 className="projectText">A mobile responsive app that organizes belongings and boxes for a move.</h3>
