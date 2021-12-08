@@ -16,7 +16,7 @@ const Projects = () => {
                     <img src={readmylipsIMG} className="projectImage" alt="Read My lips" />
                 </a>
                 <h3 className="projectText">Read my lips is a game where one can read another's lips by guessing.  Great for parties and entertaining</h3>
-                <h3 className="projectText"> Built with HTML, CSS and Javascript</h3>
+                <h3 className="projectText"> Built with HTML, CSS,API calls and Javascript</h3>
             </div>
             <div className="projectDiv">
                 <h1 className="projectTitle">MyAdventure App</h1>
@@ -25,7 +25,7 @@ const Projects = () => {
                     <img src={MyadventureAppIMG} className="projectImage" alt="My adventure App" />
                 </a>
                 <h3 className="projectText">This application is a social media site where one can post about adventures, and share travel experiences.</h3>
-                <h3 className="projectText">Built with Javascript and APIs</h3>
+                <h3 className="projectText">Built with Javascript,ORM, MySQL,Authentication and Handlebars</h3>
             </div>
             <div className="projectDiv">
                 <h1 className="projectTitle">Note Taker</h1>
@@ -73,7 +73,7 @@ const Projects = () => {
                 <a href="https://box-it-app.netlify.app/ " target="_blank">
                     <img src={boxitIMG} className="projectImage" alt="Box It logo" />
                 </a>
-                <h3 className="projectText">A mobile responsive MERN SPA app that organizes belongings and boxes for a move.</h3>
+                <h3 className="projectText">A tailwind styled, mobile responsive, MERN SPA app that organizes belongings and boxes for a move.</h3>
             </div>
         
                   
