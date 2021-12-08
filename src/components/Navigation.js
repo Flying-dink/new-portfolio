@@ -1,6 +1,6 @@
 import React from 'react';
 import "../styles/navigation.css"
-import Resume from "../images/Resume.png"
+import Resume from "../images/Resume.pdf"
 const Navbar = ({ currentPage, handlePageChange }) => {
 
   return (
