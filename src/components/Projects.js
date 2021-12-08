@@ -25,6 +25,7 @@ const Projects = () => {
                     <img src={MyadventureAppIMG} className="projectImage" alt="My adventure App" />
                 </a>
                 <h3 className="projectText">This application is a social media site where one can post about adventures, and share travel experiences.</h3>
+                <h3 className="projectText">Built with Javascript and APIs</h3>
             </div>
             <div className="projectDiv">
                 <h1 className="projectTitle">Note Taker</h1>
@@ -33,6 +34,7 @@ const Projects = () => {
                     <img src={noteTakerIMG} className="projectImage" alt="note taker" />
                 </a>
                 <h3 className="projectText">This application allows users to create notes that will be saved to a json file instead of a database. It also allows user to delete previous notes and will update the json file with the new list of notes after each note is deleted.</h3>
+                <h3 className="projectText">Built with Express JS</h3>
             </div>
         
             <div className="project">
@@ -43,6 +45,7 @@ const Projects = () => {
                     <img src={ReadmeIMG} className="projectImage" alt="Readme generator" />
                 </a>
                 <h3 className="projectText">An app that produces a professional Readme</h3>
+                <h3 className="projectText">Built using Node JS</h3>
             </div>
             <div className="projectDiv">
                 <h1 className="projectTitle">Team Profile Generator</h1>
@@ -51,6 +54,8 @@ const Projects = () => {
                     <img src={teamprofileIMG} className="projectImage" alt="team profile generator" />
                 </a>
                 <h3 className="projectText">A command line app that generates profiles for team members.</h3>
+                <h3 className="projectText">Built using object oriented programming</h3>
+
             </div>
             <div className="projectDiv">
                 <h1 className="projectTitle">SQL-Employee-Tracker</h1>
@@ -68,7 +73,7 @@ const Projects = () => {
                 <a href="https://box-it-app.netlify.app/ " target="_blank">
                     <img src={boxitIMG} className="projectImage" alt="Box It logo" />
                 </a>
-                <h3 className="projectText">A mobile responsive app that organizes belongings and boxes for a move.</h3>
+                <h3 className="projectText">A mobile responsive MERN SPA app that organizes belongings and boxes for a move.</h3>
             </div>
         
                   
