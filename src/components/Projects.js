@@ -16,6 +16,7 @@ const Projects = () => {
                     <img src={readmylipsIMG} className="projectImage" alt="Read My lips" />
                 </a>
                 <h3 className="projectText">Read my lips is a game where one can read another's lips by guessing.  Great for parties and entertaining</h3>
+                <h3 className="projectText"> Built with HTML, CSS and Javascript</h3>
             </div>
             <div className="projectDiv">
                 <h1 className="projectTitle">MyAdventure App</h1>
